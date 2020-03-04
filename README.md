@@ -1,4 +1,4 @@
-# cra-contextapi-formik-styledcomponents-ts-starter
+# cra-contextapi-formik-sc-sm-ts-starter
 
 Starter for *Create React App* with *Formik*, *Styled Components* and state management by *Context API* on *TypeScript*
 
