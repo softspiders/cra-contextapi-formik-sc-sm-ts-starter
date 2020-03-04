@@ -1,4 +1,4 @@
-# cra-formik-styled-components-ts-starter
+# cra-formik-sc-contextapi-state-ts-ie11-starter
 
 Starter CRA with Formik, Styled Components and state management by Context API on TypeScript
 
@@ -11,6 +11,7 @@ Starter CRA with Formik, Styled Components and state management by Context API o
 - formik
 - ie11
 - starter
+- state
 - styled-components
 - template
 - typescript
