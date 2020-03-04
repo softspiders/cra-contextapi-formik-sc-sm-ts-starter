@@ -1,11 +1,12 @@
 # cra-formik-styled-components-ts-starter
 
-Starter for Forms with Formik in Create React App and Styled Components on TypeScript
+Starter CRA with Formik, Styled Components and state management by Context API on TypeScript
 
 ---
 
 ## Feature tags
 
+- context-api
 - cra
 - formik
 - ie11
@@ -18,17 +19,13 @@ Starter for Forms with Formik in Create React App and Styled Components on TypeS
 
 ## Authors
 
-[Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
+[AndreyChapkin](https://github.com/orgs/Jepria/people/AndreyChapkin)
 
 ---
 
-## Inspired by
-
-[Forms with Formik + TypeScript](https://medium.com/fotontech/forms-with-formik-typescript-d8154cc24f8a) article
-
 ## Direct ancestors
 
-[-*formik*, *styled-components*: cra-ie11-ts-starter](https://github.com/softspiders/cra-ts-ie11-starter)
+[-*context-api*, *state*: cra-formik-styled-components-ts-starter](https://github.com/softspiders/cra-formik-styled-components-ts-starter)
 
 
 ---
