@@ -10,11 +10,13 @@ Starter for *Create React App* with *Formik*, *Styled Components* and state mana
 - cra
 - formik
 - ie11
+- maven
 - starter
 - state-management
 - styled-components
 - template
 - typescript
+- war
 
 ---
 
@@ -26,7 +28,7 @@ Starter for *Create React App* with *Formik*, *Styled Components* and state mana
 
 ## Direct ancestors
 
-[-***context-api***, ***state-management***: cra-formik-styledcomponents-ts-starter](https://github.com/softspiders/cra-formik-styledcomponents-ts-starter)
+[-***context-api***, ***maven***, ***state-management***, ***war***: cra-formik-styledcomponents-ts-starter](https://github.com/softspiders/cra-formik-styledcomponents-ts-starter)
 
 
 ---
