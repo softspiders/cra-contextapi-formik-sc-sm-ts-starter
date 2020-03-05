@@ -8,9 +8,9 @@ Starter for *Create React App* with *Formik*, *Styled Components* and local stat
 
 - basic-auth
 - client
-- express
 - context-api
 - cra
+- express
 - formik
 - ie11
 - integration-test
