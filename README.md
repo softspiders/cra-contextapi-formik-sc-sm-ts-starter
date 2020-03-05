@@ -6,11 +6,17 @@ Starter for *Create React App* with *Formik*, *Styled Components* and state mana
 
 ## Feature tags
 
+- basic-auth
+- client
+- express
 - context-api
 - cra
 - formik
 - ie11
+- integration-test
+- jest
 - maven
+- rest
 - starter
 - state-management
 - styled-components
