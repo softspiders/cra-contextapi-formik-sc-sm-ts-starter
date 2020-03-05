@@ -34,8 +34,8 @@ Starter for *Create React App* with *Formik*, *Styled Components* and state mana
 
 ## Direct ancestors
 
-- [-***basic-auth, client, context-api, express, jest, integration-test, maven, rest, state-management, war***: cra-formik-styledcomponents-ts-starter](https://github.com/softspiders/cra-formik-styledcomponents-ts-starter)
-- [-***context-api, express, jest, integration-test, rest***: basic-auth-rest-client-jest-starter](https://github.com/softspiders/basic-auth-rest-client-jest-starter)
+- [-***basic-auth, client, context-api, express, jest, integration-test, maven, rest, state-management, war***](https://github.com/softspiders/cra-formik-styledcomponents-ts-starter)
+- [-***context-api, express, jest, integration-test, rest***](https://github.com/softspiders/basic-auth-rest-client-jest-starter)
 
 
 
